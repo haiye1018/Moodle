@@ -1,6 +1,0 @@
-username,password,firstname,lastname,email
-1,Ssxy@1018,1,1,a@aa.com
-2,Ssxy@1018,1,1,a@sa.com
-3,Ssxy@1018,1,1,a@qa.com
-4,Ssxy@1018,1,1,a@wa.com
-5,Ssxy@1018,1,1,a@ea.com
